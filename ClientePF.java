@@ -18,10 +18,7 @@ public class ClientePF {
     }
     public String getNome(){
     return nome;
-    }
-    public void setCpf(String cpf){
-    this.cpf = cpf;
-    }
+ 
     public String getCpf(){
     return cpf;
     }
